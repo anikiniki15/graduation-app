@@ -160,5 +160,5 @@ https://www.figma.com/design/Mdi6HO2FglVo6fpB2WYdiR/%E7%94%BB%E9%9D%A2%E9%81%B7%
 ---
 
 ## ER図
-[https://gyazo.com/34667f45c25c77e8158c0f323a159691](https://gyazo.com/86347dd85a18b1caef7045e4a0147e63)
+https://gyazo.com/86347dd85a18b1caef7045e4a0147e63
 
